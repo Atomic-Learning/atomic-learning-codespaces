@@ -19,6 +19,6 @@
       }
     }
   },
-  "postCreateCommand": "[ -f requirements.txt ] && pip install -r requirements.txt --upgrade-strategy only-if-needed || true; code --remote codespaces/$(hostname) /workspaces/${localWorkspaceFolderBasename}/example.ipynb",
+  "postCreateCommand": "[ -f requirements.txt ] && pip install -r requirements.txt --upgrade-strategy only-if-needed || true",
   "forwardPorts": [8888]
 }
