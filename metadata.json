@@ -1,21 +1,16 @@
 {
-    "title": "",
-    "slug": "",
+    "title": "Atomic Learning: Codespaces",
+    "slug": "atomic-learning-codespaces",
     "authors": [
-        "",
-        ""
+        "chris-cooling"
     ],
     "tags": [
         "codespace",
-        ""
+        "atomic-learning"
     ],
-    "duration": 0,
+    "duration": 5,
     "prerequisites": [
-        "",
-        ""
     ],
     "related": [
-        "",
-        ""
     ]
 }
