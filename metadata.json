@@ -12,7 +12,8 @@
     ],
     "duration": 5,
     "prerequisites": [
-        "github-limited-open-codespaces"
+        "github-codespaces",
+        "github-managing-codespaces"
     ],
     "related": [
     ]
